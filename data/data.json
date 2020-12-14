@@ -1,0 +1,50 @@
+{
+    "Action": [
+        {
+            "title": "The Dark Knight",
+            "description": "With the help of allies Lt. Jim Gordon (Gary Oldman) and DA Harvey Dent (Aaron Eckhart), Batman (Christian Bale) has been able to keep a tight lid on crime in Gotham City. But when a vile young criminal calling himself the Joker (Heath Ledger) suddenly throws the town into chaos, the caped Crusader begins to tread a fine line between heroism and vigilantism.",
+            "year": "2008",
+            "image": "./images/Batman.jpeg",
+            "rating": "PG-13"
+        },
+        {
+            "title": "The Matrix",
+            "description": "Neo (Keanu Reeves) believes that Morpheus (Laurence Fishburne), an elusive figure considered to be the most dangerous man alive, can answer his question -- What is the Matrix? Neo is contacted by Trinity (Carrie-Anne Moss), a beautiful stranger who leads him into an underworld where he meets Morpheus. They fight a brutal battle for their lives against a cadre of viciously intelligent secret agents. It is a truth that could cost Neo something more precious than his life.",
+            "year": "1999",
+            "image": "./images/Matrix.jpeg",
+            "rating": "R"
+        }
+    ],
+    "Drama": [
+        {
+            "title": "The Shawshank Redemption",
+            "description": "Andy Dufresne (Tim Robbins) is sentenced to two consecutive life terms in prison for the murders of his wife and her lover and is sentenced to a tough prison. However, only Andy knows he didn't commit the crimes. While there, he forms a friendship with Red (Morgan Freeman), experiences brutality of prison life, adapts, helps the warden, etc., all in 19 years.",
+            "year": "1994",
+            "image": "./images/Shawshank.jpeg",
+            "rating": "R"
+        },
+        {
+            "title": "Titanic",
+            "description": "James Cameron's 'Titanic' is an epic, action-packed romance set against the ill-fated maiden voyage of the R.M.S. Titanic; the pride and joy of the White Star Line and, at the time, the largest moving object ever built. She was the most luxurious liner of her era -- the 'ship of dreams' -- which ultimately carried over 1,500 people to their death in the ice cold waters of the North Atlantic in the early hours of April 15, 1912.",
+            "year": "1997",
+            "image": "./images/Titanic.jpeg",
+            "rating": "PG-13"
+        }
+    ],
+    "Science Fiction": [
+        {
+            "title": "Avatar",
+            "description": "On the lush alien world of Pandora live the Na'vi, beings who appear primitive but are highly evolved. Because the planet's environment is poisonous, human/Na'vi hybrids, called Avatars, must link to human minds to allow for free movement on Pandora. Jake Sully (Sam Worthington), a paralyzed former Marine, becomes mobile again through one such Avatar and falls in love with a Na'vi woman (Zoe Saldana). As a bond with her grows, he is drawn into a battle for the survival of her world.",
+            "year": "2009",
+            "image": "./images/Avatar.jpeg",
+            "rating": "PG-13"
+        },
+        {
+            "title": "Star Wars: A New Hope",
+            "description": "The Imperial Forces -- under orders from cruel Darth Vader (David Prowse) -- hold Princess Leia (Carrie Fisher) hostage, in their efforts to quell the rebellion against the Galactic Empire. Luke Skywalker (Mark Hamill) and Han Solo (Harrison Ford), captain of the Millennium Falcon, work together with the companionable droid duo R2-D2 (Kenny Baker) and C-3PO (Anthony Daniels) to rescue the beautiful princess, help the Rebel Alliance, and restore freedom and justice to the Galaxy.",
+            "year": "1977",
+            "image": "./images/StarWars.jpeg",
+            "rating": "PG"
+        }
+    ] 
+}

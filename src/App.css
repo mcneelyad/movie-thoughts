@@ -1,0 +1,23 @@
+.title section {
+    background-color: #c2382f;
+    text-align: center;
+    color: white;
+    height: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar {
+    height: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+
+.navbar a {
+    margin-left: 1rem;
+    margin-right: 1rem;
+    color: white;
+}
